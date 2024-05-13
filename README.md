@@ -1,5 +1,5 @@
 # EventBus
-用 Go 实现的事件总线。
+Implement eventbus in go.
 # Install
 ```go
 go get github.com/chenmingyong0423/go-eventbus
