@@ -19,7 +19,7 @@ import (
 )
 
 type Event struct {
-	Payload any
+	Payload []byte
 }
 
 type (
